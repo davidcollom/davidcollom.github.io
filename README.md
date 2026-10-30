@@ -2,7 +2,8 @@
 
 The source for my GitHub Pages site, published at [davidcollom.github.io](https://davidcollom.github.io).
 
-This is a static site served from the `master` branch as the GitHub Pages source.
+This is a static site served from the `master` branch as the GitHub Pages source, using the classic
+GitHub Pages static site layout.
 
 ## Contents
 
@@ -11,7 +12,7 @@ This is a static site served from the `master` branch as the GitHub Pages source
 | `index.html` | The site landing page. |
 | `params.json` | Page content and metadata used by the GitHub Pages generator. |
 | `stylesheets/` | Stylesheets for screen, mobile, print and non-screen rendering. |
-| `javascripts/` | Client-side scripts. |
+| `javascripts/` | Client-side scripts (`modernizr.js`, `headsmart.min.js`, `main.js`). |
 | `images/` | Site imagery. |
 | `fonts/` | Open Sans web fonts in multiple formats. |
 
